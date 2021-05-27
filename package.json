@@ -1,0 +1,24 @@
+{
+    "name": "ecommerce-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node backend/server",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/taylordragoo/ecommerce-template.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/taylordragoo/ecommerce-template/issues"
+    },
+    "homepage": "https://github.com/taylordragoo/ecommerce-template#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+}
+  
